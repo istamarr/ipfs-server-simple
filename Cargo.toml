@@ -3,7 +3,7 @@ name = "ipfs-server"
 version = "0.1.4"
 edition = "2021"
 description = """
-Simple ipfs server built on rust-ipfs
+Simple ipfs server built on rust-ipfs master on https://github.com/istamarr/rust-ipfs dev on https://github.com/istamarr/ipfs-server-simple
 """
 rust-version = "1.68"
 license = "Apache-2.0 OR MIT"
