@@ -2,8 +2,7 @@
 
 Small and simple ipfs server built on rust-ipfs
 
-Private Nodes
-Local Storage, LibP2p
+Private Nodes, Local Storage, LibP2p
 
 ## License
 
